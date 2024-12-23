@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-radiowidgetfrontend-dev-be419-authRole",
+      "UnauthRoleArn": "arn:aws:iam::863518451018:role/amplify-radiowidgetfrontend-dev-be419-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::863518451018:role/amplify-radiowidgetfrontend-dev-be419-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-radiowidgetfrontend-dev-be419-deployment",
+      "UnauthRoleName": "amplify-radiowidgetfrontend-dev-be419-unauthRole",
+      "StackName": "amplify-radiowidgetfrontend-dev-be419",
+      "StackId": "arn:aws:cloudformation:us-east-2:863518451018:stack/amplify-radiowidgetfrontend-dev-be419/02341180-a9bb-11ef-bfcf-064a3121c883",
+      "AmplifyAppId": "d1pui7sb2pyybo"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d1pui7sb2pyybo",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
